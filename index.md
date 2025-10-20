@@ -3,17 +3,15 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# Name of the workshop?
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+Organizer: Thomas Bitoun
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+Dates: March 23-27,2026
+
+Location: Shanghai Institute for Mathematics and Interdisciplinary Sciences
 
 Abstract:
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
 
 *See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
