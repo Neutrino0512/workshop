@@ -3,22 +3,24 @@ title: Invited Speakers
 nav: Speakers
 ---
 
-##Andreas Bode
+## Andreas Bode
 
 *University of Wuppertal*
 
-##Daniel Caro
+## Daniel Caro
 
-##Christine Huyghe
+*Université de Caen Normandie*
 
-##Andrea Pulita
+## Christine Huyghe
 
-##Tobias Schmidt
+## Andrea Pulita
+
+## Tobias Schmidt
 
 *University of Wuppertal*
 
-##Raoul Hallopea
+## Raoul Hallopea
 
-##Ruochuan Liu
+## Ruochuan Liu
 
-##Konstantin Ardakov
+## Konstantin Ardakov
