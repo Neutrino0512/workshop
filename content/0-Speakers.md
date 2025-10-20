@@ -1,6 +1,7 @@
 ---
 title: Invited Speakers
 nav: Speakers
+---
 
 Andreas Bode
 
