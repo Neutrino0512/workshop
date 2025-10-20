@@ -1,51 +1,96 @@
 ---
-title: Get Started
-nav: Start
-topics: Template; Basic Config
+title: Information for International Visitors to SIMIS
+nav: Information
 ---
 
-The [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) is a template project --> to get started quickly, make a copy and replace the demo with your own content and customizations.
-This [demo site](https://evanwill.github.io/workshop-template-b/) demonstrates the output on GitHub Pages.
-The content pages serve as documentation and examples to copy from.
+Welcome to SIMIS (Shanghai Institute for Mathematics and Interdisciplinary Sciences)!
 
-{% capture text %}
-1. Click the green "Use this template" button on the [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) to make your own new copy of the code (make sure you are logged into GitHub!).
-2. Work on the GitHub web interface or clone to your local machine to edit files (tip: click `.` on any GitHub repository to [open the web editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)).
-3. Edit the "_config.yml" with your info.
-4. Edit/add the content pages in Markdown (found in the "content" folder).
-5. Add any images to the "images" folder.
-5. Commit on the web interface or push to GitHub.
-6. In your repository's settings, activate GitHub Pages, using main branch.{% endcapture %}
-{% include card.html header="Overview" text=text %}
+This guide offers practical tips for international visitors regarding local connectivity, payments, navigation, and transportation. For academic/scheduling queries, please contact your SIMIS host directly.
 
-## Basic Configuration
+## Venue & Getting Here
 
-Edit the "_config.yml" to get your workshop website set up with the basics such as `title` and `author`.
-Check comments (denoted by `#` in YAML) in the file for all the options!
+Institute: SIMIS (www.simis.cn)
 
-Once you have edited the "_config.yml", you are ready to start editing your content pages.
-All your content is written in Markdown in the "content" folder.
-See [Create Lesson Content]({{ '/content/3-lesson.html' | relative_url }}) for details and options.
+Address (EN): Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai
 
-## Style customization [optional]
+地址 (中文): 上海市杨浦区淞沪路657号创智国际广场A座
 
-The file "assets/css/styles.scss" exposes variables that can customize the basic style of website:
+Metro: Line 10 → Sanmen Road (三门路), ~200 m walk
 
-- `$top-border` adds a tiny splash of color on the header and footer borders. Try tweaking the color using an [HTML # value](https://www.w3schools.com/colors/colors_picker.asp).
-- `$text-color` sets the body text color
-- `$link-color` sets link color
-- `$base-font-size` sets the body text size
-- `$container-max` sets a maximum width for the text body--keeping it narrow can make it easier to read, but gives less screen space!
+Map pin: https://omaps.app/42bSUlYp_y
 
-To use the Bootstrap defaults for *any* of these values, comment out the variable in "styles.scss", using `//` in front of the option's line (e.g. `// $text-color: #111 !default;` ).
+Detailed transport: https://swoa2025.simis.cn/transportation
 
-To add your own custom CSS, use the file "_sass/_custom.scss".
-Any CSS/SASS you add to this file will override the template and Bootstrap classes.
+## On-site at SIMIS
 
-## Add Optional Analytics [optional]
+Visitor office & building entry: Your host will guide you upon arrival.
 
-To use analytics (such as Google Analytics, Matomo, etc), paste the code snippet provided by the platform into the file "_includes/template/analytics.html".
+Wi-Fi: Guest credentials provided at SIMIS.
 
-The analytics code will only be added when using "production" environment. 
-This happens automatically on GitHub Pages. 
-To build manually you need to add "JEKYLL_ENV", like: `JEKYLL_ENV=production jekyll build`.
+## Accommodation
+
+Recommended: Atour Hotel Shanghai Wujiaochang Wanda Plaza (上海五角场万达广场亚朵酒店), near SIMIS. To get SIMIS corporate rate, email your SIMIS host your dates & passport name—we’ll handle booking.
+
+Hotel info & photos: https://www.trip.com/w/4yrFpdvQKR2
+
+Other hotels: Trip.com recommended.
+
+## Visa Information
+
+China recently expanded visa-free entry policies (see attached PDF).
+
+Official source: https://www.visaforchina.cn
+
+SIMIS visa letters: Contact Michael Fang (fangtianyue@simis.cn), CC your SIMIS host. Follow up directly if needed.
+
+## Connectivity (SIM cards)
+
+A local Chinese SIM card (+86 number) is strongly recommended for SMS verification (ride-hailing, delivery, metro apps).
+
+Where at PVG: China Telecom, T1 near Gate 11 (07:00–22:00). Passport required; English spoken.
+
+International roaming: Works for basic data, not for local app SMS verifications.
+
+## Payments (Alipay/WeChat Pay—cashless daily life)
+
+Set up in advance: Detailed guide at https://swoa2025.simis.cn/tips
+
+ID verification: May require passport selfie in-app upon arrival in China.
+
+Daily use: Apps’ QR codes accepted everywhere (restaurants, metro, convenience stores).
+
+## Navigation that actually works
+
+Apple Maps: Reliable in China, but not from outside China.
+
+Organic Maps: Excellent offline backup (works from outside China). Download Shanghai maps beforehand. Works from abroad as well.
+
+Metro: 大都会 (DADUHUI) app or Alipay mini-program QR entry.
+
+## Ride-hailing (Didi)
+
+Didi app: English available, accepts international numbers, built-in translation. Integrated with Alipay mini-app.
+
+## In-app Translation (WeChat & Alipay—highly recommended)
+
+The built-in translation is extremely useful, as almost all daily tasks (restaurant menus, metro tickets, directions, etc.) rely on these mega-apps.
+
+WeChat: Enable via Me → Settings → General → Translation.
+
+Alipay: International version includes integrated translation tools.
+
+## Power, Time & Weather Essentials
+
+Electricity: 220 V. Sockets accept US/EU two-pin plugs; slim adapter recommended for grounded plugs.
+
+Time zone: UTC+8 (no daylight saving).
+
+Late-Oct weather: ~15–23°C, layers recommended.
+
+Emergencies: Police 110 • Fire 119 • Ambulance 120
+
+## A personal note from Thomas:
+
+This guide aims to help international visitors in general. For suggestions about additional useful information, please email me at thomas@simis.cn. For workshop-specific details (e.g., exact room number, schedule), refer to the workshop website or the body of the invitation email.
+
+
