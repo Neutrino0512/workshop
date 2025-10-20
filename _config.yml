@@ -26,14 +26,6 @@ featured-image: "/images/uidaho-workshop.jpg"
 # add search box to footer? true/false
 search: true
 
-# author settings for cc-by, appears in the footer and credits
-author: evan will
-# your github username for link [optional]
-github_username: evanwill
-# year or date published
-pub_year: 2021
-# location of code, the full url to your github repository
-source-code: https://github.com/evanwill/workshop-template-b
 
 ##########
 # URL VARIABLES [optional!!]
