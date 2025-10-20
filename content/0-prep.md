@@ -3,28 +3,36 @@ title: Invited Speakers
 nav: Speakers
 ---
 
-## Andreas Bode
+**Andreas Bode**
 
 *University of Wuppertal*
 
-### Daniel Caro
+**Daniel Caro**
 
 *Université de Caen Normandie*
 
-### Christine Huyghe
+**Christine Huyghe**
 
-### Andrea Pulita
+*Université Bourgogne Franche-Comté*
 
-### Tobias Schmidt
+**Andrea Pulita**
+
+*Université Grenoble Alpes*
+
+**Tobias Schmidt**
 
 *University of Wuppertal*
 
-### Raoul Hallopea
+**Raoul Hallopea**
 
-### Ruochuan Liu
+**Ruochuan Liu**
 
-### Konstantin Ardakov
+*Peking University*
 
-### Tomoyuki Abe (to be confirmed)
+**Konstantin Ardakov**
 
-*Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU)*
+*University of Oxford*
+
+**Tomoyuki Abe (to be confirmed)**
+
+*Kavli Institute for the Physics and Mathematics of the Universe*
