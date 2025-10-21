@@ -25,6 +25,8 @@ nav: Speakers
 
 **Raoul Hallopea**
 
+*Institut de Mathématiques de Jussieu-Paris Rive Gauche*
+
 **Ruochuan Liu**
 
 *Peking University*
