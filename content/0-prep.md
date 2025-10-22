@@ -23,7 +23,7 @@ nav: Speakers
 
 *University of Wuppertal*
 
-**Raoul Hallopea**
+**Raoul Hallopeau**
 
 *Institut de Mathématiques de Jussieu-Paris Rive Gauche*
 
