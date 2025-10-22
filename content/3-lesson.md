@@ -85,7 +85,7 @@ Electricity: 220 V. Sockets accept US/EU two-pin plugs; slim adapter recommended
 
 Time zone: UTC+8 (no daylight saving).
 
-Late-Oct weather: ~15–23°C, layers recommended.
+Weather: average is 8–18°C, but could be extreme for -1-33°C according the history data of recent 3 years.
 
 Emergencies: Police 110 • Fire 119 • Ambulance 120
 
