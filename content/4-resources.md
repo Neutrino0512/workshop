@@ -3,8 +3,6 @@ title: Visa-Free Access to China
 nav: Visa
 ---
 
-To be announced
-
 Currently, there are two ways that you can enter China without a visa:
 
 **1. 240-Hour Visa-free Transit Policy**
