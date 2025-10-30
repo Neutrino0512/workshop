@@ -19,10 +19,6 @@ nav: Speakers
 
 *Université Grenoble Alpes*
 
-**Tobias Schmidt**
-
-*University of Wuppertal*
-
 **Raoul Hallopeau**
 
 *Institut de Mathématiques de Jussieu-Paris Rive Gauche*
@@ -34,6 +30,10 @@ nav: Speakers
 **Konstantin Ardakov**
 
 *University of Oxford*
+
+**Tobias Schmidt (to be confirmed)**
+
+*University of Wuppertal*
 
 **Tomoyuki Abe (to be confirmed)**
 
