@@ -3,10 +3,6 @@ title: Invited Speakers
 nav: Speakers
 ---
 
-**Andreas Bode**
-
-*University of Wuppertal*
-
 **Daniel Caro**
 
 *Université de Caen Normandie*
