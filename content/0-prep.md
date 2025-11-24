@@ -27,7 +27,7 @@ nav: Speakers
 
 *University of Oxford*
 
-**Tobias Schmidt (to be confirmed)**
+**Tobias Schmidt**
 
 *University of Wuppertal*
 
