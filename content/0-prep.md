@@ -30,7 +30,3 @@ nav: Speakers
 **Tobias Schmidt**
 
 *University of Wuppertal*
-
-**Tomoyuki Abe (to be confirmed)**
-
-*Kavli Institute for the Physics and Mathematics of the Universe*
