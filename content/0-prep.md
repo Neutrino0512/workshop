@@ -30,3 +30,11 @@ nav: Speakers
 **Tobias Schmidt**
 
 *University of Wuppertal*
+
+**Arun Soor**
+
+*University of Michigan*
+
+**Finn Wiersig**
+
+*National University of Singapore*
