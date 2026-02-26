@@ -31,10 +31,6 @@ nav: Speakers
 
 *University of Wuppertal*
 
-**Arun Soor**
-
-*University of Michigan*
-
 **Finn Wiersig**
 
 *National University of Singapore*
