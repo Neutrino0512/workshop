@@ -1,4 +1,4 @@
 ---
-title: Registeration for the workshop
-nav: Registeration
+title: Registration for the workshop
+nav: Registration
 ---
