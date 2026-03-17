@@ -29,7 +29,7 @@ Title: **A study of the second Drinfeld covering**
 
 Abstract: I will discuss joint work, very much in progress, with Simon Wadsley. The Drinfeld tower provides very interesting examples of equivariant $\mathcal{D}$-modules on the $p$-adic upper half plane. We attempt to generalise Teitelbaum's work on the first Drinfeld covering to the case of the second covering. This involves computing some invariant and equivariant Picard groups of well-chosen affinoids in the first Drinfeld covering.
 
-**Finn Wiersig** 
+### Finn Wiersig
 
 Title: **A reconstruction theorem for coadmissible D-cap modules**
 Abstract: Let X be a smooth rigid-analytic variety. Ardakov and Wadsley introduced the sheaf D-cap of infinite order differential operators on X, along with the category of coadmissible D-cap modules. In this talk, I present a Riemann-Hilbert correspondence for these coadmissible D-cap modules. Specifically, we interpret a coadmissible D-cap module as a p-adic differential equation, explain what it means to solve such an equation, and describe how to reconstruct the module from its solutions.
