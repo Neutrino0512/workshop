@@ -17,11 +17,15 @@ These three notions turn out to be largely incompatible with one another. I will
 
 The talk will begin with a brief overview of the index theory for differential equations on Berkovich curves, in order to explain the motivation for introducing exponents.
 
+<br>
+
 ### Daniel Caro
 
 Title: **On the injectivity in crystalline comparisons**
 
 Abstract: Let $k$ be a perfect field of positive characteristic. For smooth affine $k$-varieties, we identify a slope obstruction to the injectivity of the comparison morphism from rigid cohomology to rationalised crystalline cohomology. This yields a negative answer to a question of Esnault--Kisin--Petrov concerning the injectivity of the de Rham-to-crystalline comparison map for smooth affine schemes over the Witt vectors that admit good compactifications. In contrast, we establish injectivity for certain subspaces defined by slope conditions as well as in cohomological degree one. For the latter case, we will focus on the result with coefficients in $F$-able overholonomic $D$-modules leveraging a generalisation of Kedlaya's full faithfulness theorem. This is a common work with Marco D'Addezio.
+
+<br>
 
 ### Konstantin Ardakov
 
@@ -29,10 +33,14 @@ Title: **A study of the second Drinfeld covering**
 
 Abstract: I will discuss joint work, very much in progress, with Simon Wadsley. The Drinfeld tower provides very interesting examples of equivariant $\mathcal{D}$-modules on the $p$-adic upper half plane. We attempt to generalise Teitelbaum's work on the first Drinfeld covering to the case of the second covering. This involves computing some invariant and equivariant Picard groups of well-chosen affinoids in the first Drinfeld covering.
 
+<br>
+
 ### Finn Wiersig
 
 Title: **A reconstruction theorem for coadmissible D-cap modules**
 Abstract: Let X be a smooth rigid-analytic variety. Ardakov and Wadsley introduced the sheaf D-cap of infinite order differential operators on X, along with the category of coadmissible D-cap modules. In this talk, I present a Riemann-Hilbert correspondence for these coadmissible D-cap modules. Specifically, we interpret a coadmissible D-cap module as a p-adic differential equation, explain what it means to solve such an equation, and describe how to reconstruct the module from its solutions.
+
+<br>
 
 ### Christine Huyghe
 
@@ -40,17 +48,23 @@ Title: **Fourier Transform for coadmissible D-modules**
 
 Abstract:Fourier transform is a classical tool in D-module theory over the complex analytic varieties introduced by Malgrange, and studied by Sabbah among many other people. In the context of p-adic analytic geometry, such a Fourier transform exists for  l-adic constructible sheaves since the work of Ramero. I will explain how the theory of coadmissible D-modules can provide a Fourier transform for p-adic rigid analytic varieties. Note that, in this case, coefficients are p-adic.
 
+<br>
+
 ### Raoul Hallopeau
 
 Title: **Characteristic variety for Dcap-modules in dimension one**
 
 Abstract: Let X be a smooth rigid analytic space. Ardakov-Wadsley have introduced a sheaf Dcap of rapidly converging differential operators over X, together with a category of coadmissible Dcap-modules that play the role of coherent objects. I have defined a characteristic variety and a characteristic cycle for these modules in the one-dimensional case, using microlocalization sheaves of Dcap. In particular, a notion of "sub-holonomicity" for coadmissible Dcap-modules over a smooth rigid curve follows. I will present the construction of this characteristic variety.
 
+<br>
+
 ### Ruochuan Liu
 
 Title: **A p-adic Riemann-Hilbert correspondence over Robba rings**
 
 Abstract:   We construct overconvergent relative period sheaves for Robba rings and overconvergent de Rham period sheaves on the v-site of a liftable semi-stable formal scheme. Using these constructions, we establish a p-adic Riemann–Hilbert correspondence relating small local systems with Robba ring coefficients on the generic fiber to small flat connections on the associated period ringed spaces. We further analyze the local Frobenius action and show that this correspondence is compatible with the Frobenius structure. As an application, we prove a comparison theorem between the cohomology of these period sheaves and the rigid cohomology of the special fiber, refining a previous result by Le Bras.
+
+<br>
 
 ### Tobias Schmidt
 
