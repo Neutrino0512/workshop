@@ -9,7 +9,7 @@ nav: Schedule
 
 14:00-16:00 **Finn Wiersig** A reconstruction theorem for coadmissible D-cap modules
 
-\ 
+<br>
 
 ### 3.24 Tuesday
 
