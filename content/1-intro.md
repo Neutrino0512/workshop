@@ -5,7 +5,7 @@ nav: Schedule
 
 ### 3.23 Monday 
 
-10:00-12:00 **Raol Hallopeau** Characteristic variety for Dcap-modules in dimension one
+10:00-12:00 **Raoul Hallopeau** Characteristic variety for Dcap-modules in dimension one
 
 14:00-16:00 **Finn Wiersig** A reconstruction theorem for coadmissible D-cap modules
 
