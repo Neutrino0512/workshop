@@ -4,33 +4,39 @@ nav: Speakers
 ---
 
 **Daniel Caro**
-
 *Université de Caen Normandie*
 
-**Christine Huyghe**
+<br>
 
+**Christine Huyghe**
 *Université Bourgogne Franche-Comté*
 
-**Andrea Pulita**
+<br>
 
+**Andrea Pulita**
 *Université Grenoble Alpes*
 
-**Raoul Hallopeau**
+<br>
 
+**Raoul Hallopeau**
 *Institut de Mathématiques de Jussieu-Paris Rive Gauche*
 
-**Ruochuan Liu**
+<br>
 
+**Ruochuan Liu**
 *Peking University*
 
-**Konstantin Ardakov**
+<br>
 
+**Konstantin Ardakov**
 *University of Oxford*
 
-**Tobias Schmidt**
+<br>
 
+**Tobias Schmidt**
 *University of Wuppertal*
 
-**Finn Wiersig**
+<br>
 
+**Finn Wiersig**
 *National University of Singapore*
