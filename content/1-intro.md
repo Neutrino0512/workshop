@@ -17,7 +17,7 @@ nav: Schedule
 
 14:00-16:00 **Konstantin Ardokov** A study of the second Drinfeld covering
 
-\
+<br>
 
 ### 3.26 Thursday
 
@@ -25,7 +25,7 @@ nav: Schedule
 
 14:00-16:00 **Ruochuan Liu** A p-adic Riemann-Hilbert correspondence over Robba rings 
 
-\
+<br>
 
 ### 3.27 Friday
 
